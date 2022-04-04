@@ -13,4 +13,17 @@ Localisation
 
 
 Attention :
-  - L'horloge doit être la même 
+  - L'horloge doit être la même
+
+
+
+
+A faire :
+  - Cahier des charges fonctionnelles (CdCF)
+  - Diagramme bête à corne
+  - Diagramme bloc interne
+  - Diagramme FAST
+
+
+Contrainte :
+- bouton (poussoir)
